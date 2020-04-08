@@ -1,3 +1,3 @@
 # Amara-Benneth-Uzochukwu
 A great mind
-This project is a smart English dictionary that can accept error and detect the nearest accurate word for the typo.
+I have several interesting projects built with python and bootstrap 4 framework. Check them out
